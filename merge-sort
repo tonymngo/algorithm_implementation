@@ -1,5 +1,6 @@
-def merge():
+def merge(left,right):
 	#merge 2 sorted arrays
 
-def merge-sort():
+
+def merge-sort(a,left,right):
 	#recursively sort smaller arrays and then merge them together
