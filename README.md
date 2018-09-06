@@ -1,1 +1,4 @@
-Merge sort in Python
+# Algorithms:
+
+- Kernel regression (Python)
+- Merge sort (Python)
